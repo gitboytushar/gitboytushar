@@ -1,24 +1,24 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=1WLfF4qdjV1nSRMWewoVfkuPeMpNiI1qe)
+![MasterHead](https://drive.google.com/uc?export=view&id=12ZpPLL0FcqaHjYSgATxSWx2nOe8hsRg0)
 
 <h1 align="center">I am Tushar Verma</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h4 align="center">A passionate Frontend Developer from India</h4>
 <br>
 <img align="right" alt="Coding" width="290" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 </p>
 
 <p>👨‍💻 I’m currently working on: <strong>RBAC Project</strong></p>
-<p>✨ I’m currently learning: <strong>ReactJs, User Authentication</strong></p>
-<p>📩 How to reach me: <strong>tusharwork.001@gmail.com</strong></p>
-<p>😂 Fun fact: <strong>I can solve a Rubik’s Cube in under 3 minutes—beat that!</strong></p>
+<p>📚 These days I'm playing with: <strong>JavaScript, ReactJs and Tailwind CSS</strong></p>
+<p>📮 Contact me at: <strong>tusharwork.001@gmail.com</strong></p>
+<p>😉 Fun fact: <strong>I can hit commits as quickly as ping pong balls.</strong></p>
 
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio%20Website%20🚀-6528F7?style=for-the-badge&logo=&logoColor=white)](https://tusharverma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Click%20To%20View%20My%20Portfolio%20Website%20❤️-E1D7C6?style=for-the-badge&logo=&logoColor=white)](https://tusharverma.vercel.app/)
 
-## Socials
+## 🎉 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/tushar20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar20)
 [![Twitter](https://img.shields.io/badge/Twitter-413F42?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_myselftushar)
 
-## Languages and Tools
+## 👨‍💻 Languages and Tools
 
 ![JAVA](https://img.shields.io/badge/JAVA-E92F2F?style=for-the-badge&logo=java&logoColor=white)
 ![]()
@@ -48,12 +48,12 @@
 ![]()
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Github Stats
+## 📈 Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gitboytushar&show_icons=true&locale=en)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitboytushar&)
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=gitboytushar&theme=flat&no-frame=false&column=11&margin-w=15&margin-h=15)
 
@@ -61,4 +61,4 @@
 
 ![](https://komarev.com/ghpvc/?username=gitboytushar&label=%20🎉%20Profile%20Views%20%20&color=117554&style=flat)
 <br> 
-<p>Thanks for visiting, Have a good day ✨</p>
+<p>Thanks for visiting, Have a good day 👍</p>
