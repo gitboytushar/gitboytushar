@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=12ZpPLL0FcqaHjYSgATxSWx2nOe8hsRg0)
+![MasterHead](github%20banner.gif)
 
 <h1 align="center">I am Tushar Verma</h1>
 <h4 align="center">A passionate Frontend Developer from India</h4>
