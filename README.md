@@ -59,6 +59,6 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=gitboytushar&label=People%20Visited&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=gitboytushar&label=%20🎉%20Profile%20Views%20%20&color=117554&style=flat)
 <br> 
 <p>Thank you for visiting! Have a good day. 👍</p>
